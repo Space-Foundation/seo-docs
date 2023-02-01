@@ -1,0 +1,26 @@
+defaultPortal: SpaceFoundation
+portals:
+  - name: SpaceFoundation
+    portalId: 4913971
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CN_ct7LgMBILAA0AAAAAAAwAQAIYs_arAiCM464WKO7pDDIU9txRtcrQDbtskBh6fLHV9a8WgLc6KAAABEEAAAB4AAAAAAAAAAAAAAAAAAAABAAAwAcAAAAAPAAAAABEAGBCFLEAXPI8AX1U1xu_xo1LhVbR6ebkSgNuYTFSAFoA
+        expiresAt: '2023-01-31T05:30:16.032Z'
+    personalAccessKey: >-
+      CiQ2MTNmNzRjOS0zNmRlLTQ4ZDgtOGFhZC1mNTcyZGE5ZTUxYWUQs_arAhiM464WKhkABeaRgqc6HI743kMI40gDR7RrpBeOMjwwSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
+  - name: sf_reporting
+    portalId: 23298694
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CIW6ubLgMBILAA0AAAAA4A0DQAIYhoWOCyCM464WKO7pDDIUWXsCC0RgVCQVAbKKti0RmB54qy46NwAABEEAAAB4AAAAAAAAAAAAAAAAAAAABAAAwAcA_v8xPAAABgBEAGAAAAAAAAAAAAAAAAAAMAJCFC4cHH9rCBu0DEkei_UK18Sq_g1gSgNuYTFSAFoA
+        expiresAt: '2023-01-31T05:30:44.358Z'
+    personalAccessKey: >-
+      CiQwZDVkYmI2My1hOGFhLTRlZDUtYTNlYS01MjIzNzc4MDU5M2UQhoWOCxiM464WKhkABeaRghAjTQq6B0YExPODSH6E3KRVU-BhSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
