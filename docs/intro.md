@@ -8,7 +8,7 @@ Let's discover **SEO in less than 60 minutes**.
 
 ## Getting Started
 
-### Here are some basic steps to improve your website's SEO:
+### Here are some basic steps to improve your website's SEO
 
 * Research keywords: Use tools to find keywords related to your website's content and target those in your website copy and meta tags.
 
