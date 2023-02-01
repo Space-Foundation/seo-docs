@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
@@ -26,7 +27,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        You can learn our SEO Standards by reading our <a href="#">SEO Standards</a> page.  You can also learn SEO by reading our <a href="#">SEO Tutorials</a> page.  You can also learn SEO by reading our <a href="#">SEO Guides</a> page.
+        You can learn our SEO Standards by reading our <a href="#">SEO Standards</a> page.  You can also learn SEO by reading our <a href="#">SEO Tutorials</a> page.  You can also learn SEO by reading our <Link to="/guides">SEO Guides</Link> page.
       </>
     ),
   },
