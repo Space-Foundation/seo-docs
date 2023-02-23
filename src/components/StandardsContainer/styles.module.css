@@ -1,38 +1,39 @@
 main {
-    margin: 2rem 0;
-    }
+  margin: 2rem 0;
+}
 
 .container {
-    margin: 2rem 0;
-
-    }
-
+  margin: 2rem 0;
+}
 
 img {
   /* display image right beside text */
-    float: left;
-    margin: 0 20px 20px 0;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    transition: all .3s ease-in-out;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    -o-transition: all .3s ease-in-out;
-    -ms-transition: all .3s ease-in-out;
-    }
+  float: left;
+  margin: 0 20px 20px 0;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+}
 
 img:hover {
-    transform: scale(1.1);
-    -webkit-transform: scale(1.1);
-    -moz-transform: scale(1.1);
-    -o-transform: scale(1.1);
-    -ms-transform: scale(1.1);
-    }
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+}
 
-    .itemTitle {
-        font-size: 1.5rem;
-        font-weight: bold;
-        margin: 1rem 0;
-        }
- 
+.itemTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.conclusionText {
+    padding: 15px 0;
+}
