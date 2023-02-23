@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: "Search Engine Optimization",
   tagline: "Making SEO less intimidating",
-  url: "https://sfseo.netlify.app",
+  url: "https://seo-sop.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
