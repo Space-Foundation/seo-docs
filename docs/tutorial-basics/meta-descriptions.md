@@ -22,7 +22,7 @@ Once you have navigated to the post/page editor, scroll down to the Yoast SEO se
 
 ### Step 4: Edit the Meta Description
 
-To edit the meta description for your post/page, click on the "Edit snippet" button in the Yoast SEO section. This will bring up a window where you can edit the title and meta description. Make sure that the meta description is concise and accurately describes the content on the page.
+To edit the meta description for your post/page, scroll down to the Yoast SEO section. Look for meta description. Make sure that the meta description is concise and accurately describes the content on the page.
 
 ### Step 5: Preview and Publish the Post/Page
 
