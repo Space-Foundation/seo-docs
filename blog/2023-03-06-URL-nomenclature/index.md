@@ -5,7 +5,7 @@ authors: [mcneil]
 tags: [tips, urls, naming, nomenclature]
 ---
 
-## URL nomenclature
+## URL Nomenclature
 
 The best SEO nomenclature for a website's URL depends on several factors, including the purpose of the website, the content on the site, and the target audience. However, there are some general best practices that can help to improve the SEO of a website's URL structure:
 
