@@ -1,6 +1,6 @@
 ---
 slug: url-nomenclature
-title: URL nomenclature
+title: URL Nomenclature
 authors: [mcneil]
 tags: [tips, urls, naming, nomenclature]
 ---
